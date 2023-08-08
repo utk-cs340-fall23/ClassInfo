@@ -131,21 +131,20 @@ Sprint 4 mid-point
 ---
 ***Week 13:***
 
-Sprint 4 Review and Sprint 5 Planning
-
+Sprint 4 Review
 
 **November 13** 
 
 **November 15**
 
-**November 17**
+**November 17** Project presentations.
 
 ---
 ***Week 14:***
 
 Sprint 5 mid-point 
 
-**November 20**
+**November 20** Project presentations.
 
 **~~November 22/24~~** No Class! Thanksgiving Break.
 
@@ -176,5 +175,5 @@ Note: There is no sprint 5 demo, that will be part of the final presentation
 
 ***Note: Everyone is expected to be in attendance for all project presentations***
 
-**December 14** Final 8am-10:15am
+**December 14** Final 8am-10:15am. Project presentations.
 
