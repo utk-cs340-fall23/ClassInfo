@@ -156,11 +156,11 @@ Note: There is no sprint 5 demo, that will be part of the final presentation
 
 ***Note: Everyone is expected to be in attendance for all project presentations***
 
-**November 27**
+**November 27** Project presentations.
 
-**November 29**
+**November 29** Project presentations.
 
-**December 1 27**
+**December 1** Project presentations.
 
 ---
 ***Week 16:***
