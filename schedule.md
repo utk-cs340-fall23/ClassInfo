@@ -67,7 +67,7 @@ Daily (Weekly) Scrum and status check
 
 Sprint 1 review Meeting (1st Demo), Sprint 2 Planning Meeting
 
-**October 2** 
+**October 2** (SCAM is Oct 2-3)
 
 **October 4** 
 
@@ -131,7 +131,7 @@ Sprint 4 mid-point
 ---
 ***Week 13:***
 
-Sprint 4 Review
+Sprint 4 Review, Sprint 5 Planning (Note: There is no sprint 5 demo, that will be part of the final presentation)
 
 **November 13** 
 
@@ -142,13 +142,11 @@ Sprint 4 Review
 ---
 ***Week 14:***
 
-Sprint 5 mid-point 
-
 **November 20** Project presentations.
 
 **~~November 22/24~~** No Class! Thanksgiving Break.
 
-Note: There is no sprint 5 demo, that will be part of the final presentation
+
 
 ---
 ***Week 15:***
