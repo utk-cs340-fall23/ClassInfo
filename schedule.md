@@ -18,7 +18,7 @@
 ---
 ***Week 3:***
 
-**September 4** No Class! Labor Day
+**~~September 4~~** No Class! Labor Day
 
 **September 6** Coding standards and Code Reviews, project ideas, get teams together 
 
@@ -78,7 +78,7 @@ Sprint 1 review Meeting (1st Demo), Sprint 2 Planning Meeting
 
 Sprint 2 Daily (Weekly) Scrum and status check
 
-**October 9** No Class! Fall Break
+**~~October 9~~** No Class! Fall Break
 
 **October 11**
 
@@ -147,7 +147,7 @@ Sprint 5 mid-point
 
 **November 20**
 
-**November 22/24** No Class! Thanksgiving Break.
+**~~November 22/24~~** No Class! Thanksgiving Break.
 
 Note: There is no sprint 5 demo, that will be part of the final presentation
 
