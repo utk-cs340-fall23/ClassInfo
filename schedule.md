@@ -9,18 +9,18 @@
 ---
 ***Week 2:***
 
-**August 28** Agile Methodologies, project ideas
+**August 28** Agile Methodologies, project ideas, **Assignment 1 Due**
 
 **August 30** Agile/Scrum, project ideas, start getting teams together
 
-**September 1** 
+**September 1** **Assignment 2 Due**
 
 ---
 ***Week 3:***
 
 **~~September 4~~** No Class! Labor Day
 
-**September 6** Coding standards and Code Reviews, project ideas, get teams together 
+**September 6** Coding standards and Code Reviews, project ideas, get teams together **Assignment 3 Due**
 
 **September 8** Style Guide, assignment 3, Make sure everyone is in a group, assignment 4
 
