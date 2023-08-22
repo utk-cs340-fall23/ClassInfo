@@ -9,29 +9,29 @@
 ---
 ***Week 2:***
 
-**August 28** Agile Methodologies, project ideas, **Assignment 1 Due**
+**August 28** Agile Methodologies, project ideas, **Assignment 1: Pull Request Due**
 
 **August 30** Agile/Scrum, project ideas, start getting teams together
 
-**September 1** **Assignment 2 Due**
+**September 1** **Assignment 2: Project Ideas Due**
 
 ---
 ***Week 3:***
 
 **~~September 4~~** No Class! Labor Day
 
-**September 6** Coding standards and Code Reviews, project ideas, get teams together **Assignment 3 Due**
+**September 6** Coding standards and Code Reviews, project ideas, get teams together **Assignment 3: Initial Product Backlog Due**
 
-**September 8** Style Guide, assignment 3, Make sure everyone is in a group, assignment 4
+**September 8** Style Guide, assignment 3, Make sure everyone is in a group, assignment 4 **Assignment 4: Join a Group Due**
 
 ---
 ***Week 4:***
 
-**September 11** Scrum, start thinking about the product backlog
+**September 11** Scrum, start thinking about the product backlog **Assignment 5: code review due**
 
 **September 13** Sprint 1 instructions, Initial checkpoint with groups
 
-**September 15**
+**September 15** **Assignment 6: Hello Plus Due**
 
 ---
 ***Week 5:*** 
