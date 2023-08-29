@@ -2,27 +2,27 @@
 
 ***Week 1:***
 
-**August 23** Intro to class and intro to software engineering processes, Git and GitHub overview, assignment 1
+**August 23** Intro to class and intro to software engineering processes, Version control syustems, assignment 1
 
-**August 25** SDLC: waterfall, assignment 2 
+**August 25** Git, Github, Markdown format 
 
 ---
 ***Week 2:***
 
-**August 28** Agile Methodologies, project ideas, **Assignment 1: Pull Request Due**
+**August 28** Git, GitHub, Markdown format, **Assignment 1: Pull Request Due**
 
-**August 30** Agile/Scrum, project ideas, start getting teams together
+**August 30** SDLC: Waterfall
 
-**September 1** **Assignment 2: Project Ideas Due**
+**September 1** Agile, **Assignment 2: Project Ideas Due**
 
 ---
 ***Week 3:***
 
 **~~September 4~~** No Class! Labor Day
 
-**September 6** Coding standards and Code Reviews, project ideas, get teams together **Assignment 3: Initial Product Backlog Due**
+**September 6** Scrum, project ideas, get teams together **Assignment 3: Initial Product Backlog Due**
 
-**September 8** Style Guide, assignment 3, Make sure everyone is in a group, assignment 4 **Assignment 4: Join a Group Due**
+**September 8**  Coding standards and Code Reviews,, Style Guide, assignment 3, Make sure everyone is in a group, assignment 4 **Assignment 4: Join a Group Due**
 
 ---
 ***Week 4:***
