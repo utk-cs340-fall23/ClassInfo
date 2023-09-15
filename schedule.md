@@ -144,8 +144,7 @@ Sprint 3 Review and Sprint 4 Planning
 ---
 ***Week 13:***
 
-Sprint 4 Review
-
+Sprint 4 mid point (note, there will be not sprint 4 review meeting, the final presentation with demo will replace the sprint 4 review meeting)
 **November 13** 
 
 **November 15**
