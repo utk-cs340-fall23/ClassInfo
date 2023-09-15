@@ -38,7 +38,7 @@
 
 Initial Planning
 
-**September 18** Sprint 1 Instructions, Initial group meetings
+**September 18** Sprint 1 Instructions, Initial group meetings, All groups meet!
 
 **September 20** The following groups will meet Wednesday:
 - Engineering Vols Connect
