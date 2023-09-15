@@ -4,57 +4,68 @@
 
 **August 23** Intro to class and intro to software engineering processes, Version control syustems, assignment 1
 
-**August 25** Git, Github, Markdown format 
+**August 25** Version control syustems 
 
 ---
 ***Week 2:***
 
-**August 28** Git, GitHub, Markdown format, **Assignment 1: Pull Request Due**
+**August 28** Git, GitHub, Markdown format
 
 **August 30** SDLC: Waterfall
 
-**September 1** Agile, **Assignment 2: Project Ideas Due**
+**September 1** Agile
 
 ---
 ***Week 3:***
 
 **~~September 4~~** No Class! Labor Day
 
-**September 6** Scrum, project ideas, get teams together **Assignment 3: Initial Product Backlog Due**
+**September 6** Agile, Srum, project ideas, get teams together
 
-**September 8**  Coding standards and Code Reviews,, Style Guide, assignment 3, Make sure everyone is in a group, assignment 4 **Assignment 4: Join a Group Due**
+**September 8**  Scrum, start thinking about the product backlog
 
 ---
 ***Week 4:***
 
-**September 11** Scrum, start thinking about the product backlog **Assignment 5: code review due**
+**September 11**  Coding standards, Style Guide, assignment 3, Make sure everyone is in a group
 
-**September 13** Sprint 1 instructions, Initial checkpoint with groups
+**September 13** Code Reviews, Hello World Plus
 
-**September 15** **Assignment 6: Hello Plus Due**
+**September 15** Scrum, Project Details, Sprint 1 instructions
 
 ---
 ***Week 5:*** 
 
-Sprint 1 planning meeting
+Initial Planning
 
-**September 18** The following groups (and anyone not in a group) will meet Monday:
-- 1
-- 2
+**September 18** Sprint 1 Instructions, Initial group meetings
+
+**September 20** The following groups will meet Wednesday:
+- Engineering Vols Connect
+- Fragrance Finder
+- PantryPal
+- PaxPal
+- RaceMob
+- School Subject Smackdown
+- Student Planner
+- TBD
 
 
-**September 20** The following groups (and anyone not in a group) will meet Wednesday:
-- 1
-- 2
+**September 22** The following groups will meet Friday:
+- Trakkit
+- TrendStrength Fitness Tracker
+- Baymax
+- Calorie Clicker
+- DnDBetter
+- Music Audio Visualizer
+- recurseAI
+- Work Hard Play Hard
 
-**September 22** The following groups (and anyone not in a group) will meet Friday:
-- 1
-- 2
 
 ---
 ***Week 6:***
 
-Daily (Weekly) Scrum and status check
+Sprint 1 Planning Meeting (This officially starts Sprint 1)
 
 **September 25** The following groups will meet Monday:
 
@@ -65,9 +76,9 @@ Daily (Weekly) Scrum and status check
 ---
 ***Week 7:***
 
-Sprint 1 review Meeting (1st Demo), Sprint 2 Planning Meeting
+Daily (Weekly) Scrum and status check
 
-**October 2** (SCAM is Oct 2-3)
+**October 2** No Class! (I will be at an acedemic conference)
 
 **October 4** 
 
@@ -76,7 +87,7 @@ Sprint 1 review Meeting (1st Demo), Sprint 2 Planning Meeting
 ---
 ***Week 8:***
 
-Sprint 2 Daily (Weekly) Scrum and status check
+Sprint 1 review Meeting (1st Demo), Sprint 2 Planning Meeting
 
 **~~October 9~~** No Class! Fall Break
 
@@ -87,7 +98,8 @@ Sprint 2 Daily (Weekly) Scrum and status check
 ---
 ***Week 9:***
 
-Sprint 2 Review Meeting and Sprint 3 Planning Meeting
+Sprint 2 Daily (Weekly) Scrum and status check
+
 
 **October 16**
 
@@ -97,8 +109,8 @@ Sprint 2 Review Meeting and Sprint 3 Planning Meeting
 
 ---
 ***Week 10:***
+Sprint 2 Review Meeting and Sprint 3 Planning Meeting
 
-Sprint 3 mid-point
 
 **October 23**
 
@@ -108,8 +120,8 @@ Sprint 3 mid-point
 
 ---
 ***Week 11:***
+Sprint 3 mid-point
 
-Sprint 3 Review and Sprint 4 Planning
 
 **October 30**
 
@@ -120,7 +132,8 @@ Sprint 3 Review and Sprint 4 Planning
 ---
 ***Week 12:***
 
-Sprint 4 mid-point 
+Sprint 3 Review and Sprint 4 Planning
+
 
 **November 6** 
 
@@ -131,7 +144,7 @@ Sprint 4 mid-point
 ---
 ***Week 13:***
 
-Sprint 4 Review, Sprint 5 Planning (Note: There is no sprint 5 demo, that will be part of the final presentation)
+Sprint 4 Review
 
 **November 13** 
 
