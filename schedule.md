@@ -114,7 +114,7 @@ Sprint 2 Review Meeting and Sprint 3 Planning Meeting
 
 **October 23**
 
-**October 25**
+**October 25** No Class! Engineers Day.
 
 **October 27**
 
