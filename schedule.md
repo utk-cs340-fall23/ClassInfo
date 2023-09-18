@@ -78,7 +78,7 @@ Sprint 1 Planning Meeting (This officially starts Sprint 1)
 
 Daily (Weekly) Scrum and status check
 
-**~~ctober 2~~** No Class! (I will be at an acedemic conference)
+**~~October 2~~** No Class! (I will be at an acedemic conference)
 
 **October 4** 
 
