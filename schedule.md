@@ -69,9 +69,29 @@ Sprint 1 Planning Meeting (This officially starts Sprint 1)
 
 **September 25** The following groups will meet Monday:
 
+- Engineering Vols Connect
+- Fragrance Finder
+- PantryPal
+- PaxPal
+- RaceMob
+
 **September 27** The following groups will meet Wednesday:
 
+- School Subject Smackdown
+- Student Planner
+- TBD
+- Trakkit
+- TrendStrength Fitness Tracker
+- Baymax
+
+
 **September 29** The following groups will meet Friday:
+
+- Calorie Clicker
+- DnDBetter
+- Music Audio Visualizer
+- RecurseAI
+- Work Hard Play Hard
 
 ---
 ***Week 7:***
