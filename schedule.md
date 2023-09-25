@@ -171,7 +171,7 @@ Sprint 2 mid point
 - School Subject Smackdown
 - Student Planner
 - Downloaded Music Player
-- 
+  
 **October 20**
 
   Sprint 2 mid point
