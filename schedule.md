@@ -102,7 +102,25 @@ Daily (Weekly) Scrum and status check
 
 **October 4** 
 
+- Engineering Vols Connect
+- Fragrance Finder
+- PantryPal
+- PaxPal
+- RaceMob
+- School Subject Smackdown
+- Student Planner
+- Downloaded Music Player
+
 **October 6**
+
+- Trakkit
+- TrendStrength Fitness Tracker
+- Baymax
+- Calorie Clicker
+- DnDBetter
+- Music Audio Visualizer
+- recurseAI
+- Work Hard Play Hard
 
 ---
 ***Week 8:***
