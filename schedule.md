@@ -48,7 +48,7 @@ Initial Planning
 - RaceMob
 - School Subject Smackdown
 - Student Planner
-- TBD
+- Downloaded Music Player
 
 
 **September 22** The following groups will meet Friday:
@@ -79,7 +79,7 @@ Sprint 1 Planning Meeting (This officially starts Sprint 1)
 
 - School Subject Smackdown
 - Student Planner
-- TBD
+- Downloaded Music Player
 - Trakkit
 - TrendStrength Fitness Tracker
 - Baymax
@@ -131,20 +131,60 @@ Sprint 1 review Meeting (1st Demo), Sprint 2 Planning Meeting
 
 **October 11**
 
+- Engineering Vols Connect
+- Fragrance Finder
+- PantryPal
+- PaxPal
+- RaceMob
+
 **October 13**
+
+- School Subject Smackdown
+- Student Planner
+- Downloaded Music Player
+- Trakkit
+- TrendStrength Fitness Tracker
+- Baymax
 
 ---
 ***Week 9:***
 
-Sprint 2 Daily (Weekly) Scrum and status check
-
-
 **October 16**
+
+Sprint 1 review Meeting (1st Demo), Sprint 2 Planning Meeting
+
+- Calorie Clicker
+- DnDBetter
+- Music Audio Visualizer
+- RecurseAI
+- Work Hard Play Hard
 
 **October 18**
 
+Sprint 2 mid point
+
+- Engineering Vols Connect
+- Fragrance Finder
+- PantryPal
+- PaxPal
+- RaceMob
+- School Subject Smackdown
+- Student Planner
+- Downloaded Music Player
+- 
 **October 20**
 
+  Sprint 2 mid point
+
+- Trakkit
+- TrendStrength Fitness Tracker
+- Baymax
+- Calorie Clicker
+- DnDBetter
+- Music Audio Visualizer
+- recurseAI
+- Work Hard Play Hard
+  
 ---
 ***Week 10:***
 Sprint 2 Review Meeting and Sprint 3 Planning Meeting
