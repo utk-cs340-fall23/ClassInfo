@@ -229,7 +229,9 @@ Sprint 2 Review Meeting and Sprint 3 Planning Meeting
 - RecurseAI
 - Work Hard Play Hard
 
-**November 3** Sprint 3 mid-point
+**November 3** 
+
+Sprint 3 mid-point
 
 - Engineering Vols Connect
 - Fragrance Finder
