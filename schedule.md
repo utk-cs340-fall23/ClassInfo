@@ -168,13 +168,153 @@ Sprint 2 mid point
 - PantryPal
 - PaxPal
 - RaceMob
-- School Subject Smackdown
-- Student Planner
-- Downloaded Music Player
   
 **October 20**
 
   Sprint 2 mid point
+
+- School Subject Smackdown
+- Student Planner
+- Downloaded Music Player
+- Trakkit
+- TrendStrength Fitness Tracker
+- Baymax
+  
+---
+***Week 10:***
+
+**October 23**
+
+  Sprint 2 mid point
+  
+- Calorie Clicker
+- DnDBetter
+- Music Audio Visualizer
+- RecurseAI
+- Work Hard Play Hard
+
+**~~October 25~~** No Class! Engineers Day.
+
+**October 27**
+
+Sprint 2 Review Meeting and Sprint 3 Planning Meeting
+
+- Engineering Vols Connect
+- Fragrance Finder
+- PantryPal
+- PaxPal
+- RaceMob
+
+---
+***Week 11:***
+
+**October 30**
+
+Sprint 2 Review Meeting and Sprint 3 Planning Meeting
+
+- School Subject Smackdown
+- Student Planner
+- Downloaded Music Player
+- Trakkit
+- TrendStrength Fitness Tracker
+- Baymax
+
+**November 1**
+
+Sprint 2 Review Meeting and Sprint 3 Planning Meeting
+
+- Calorie Clicker
+- DnDBetter
+- Music Audio Visualizer
+- RecurseAI
+- Work Hard Play Hard
+
+**November 3** Sprint 3 mid-point
+
+- Engineering Vols Connect
+- Fragrance Finder
+- PantryPal
+- PaxPal
+- RaceMob
+
+---
+***Week 12:***
+
+**November 6** 
+
+Sprint 3 mid-point
+
+- School Subject Smackdown
+- Student Planner
+- Downloaded Music Player
+- Trakkit
+- TrendStrength Fitness Tracker
+- Baymax
+
+**November 8** 
+
+Sprint 3 mid-point
+
+- Calorie Clicker
+- DnDBetter
+- Music Audio Visualizer
+- RecurseAI
+- Work Hard Play Hard
+
+**November 10**
+
+Sprint 3 Review Meeting and Sprint 4 Planning Meeting
+
+- School Subject Smackdown
+- Student Planner
+- Downloaded Music Player
+- Trakkit
+- TrendStrength Fitness Tracker
+- Baymax
+  
+---
+***Week 13:***
+
+**November 13** 
+
+Sprint 3 Review Meeting and Sprint 4 Planning Meeting
+
+- Engineering Vols Connect
+- Fragrance Finder
+- PantryPal
+- PaxPal
+- RaceMob
+  
+**November 15**
+
+Sprint 3 Review Meeting and Sprint 4 Planning Meeting
+
+- School Subject Smackdown
+- Student Planner
+- Downloaded Music Player
+- Trakkit
+- TrendStrength Fitness Tracker
+- Baymax
+
+**November 17** 
+
+Sprint 4 mid point (note, there will be not sprint 4 review meeting, the final presentation with demo will replace the sprint 4 review meeting)
+
+- Engineering Vols Connect
+- Fragrance Finder
+- PantryPal
+- PaxPal
+- RaceMob
+- School Subject Smackdown
+- Student Planner
+- Downloaded Music Player
+  
+---
+***Week 14:***
+
+**November 20** 
+
+Sprint 4 mid point (note, there will be not sprint 4 review meeting, the final presentation with demo will replace the sprint 4 review meeting)
 
 - Trakkit
 - TrendStrength Fitness Tracker
@@ -185,58 +325,7 @@ Sprint 2 mid point
 - recurseAI
 - Work Hard Play Hard
   
----
-***Week 10:***
-Sprint 2 Review Meeting and Sprint 3 Planning Meeting
-
-
-**October 23**
-
-**~~October 25~~** No Class! Engineers Day.
-
-**October 27**
-
----
-***Week 11:***
-Sprint 3 mid-point
-
-
-**October 30**
-
-**November 1**
-
-**November 3**
-
----
-***Week 12:***
-
-Sprint 3 Review and Sprint 4 Planning
-
-
-**November 6** 
-
-**November 8** 
-
-**November 10**
-
----
-***Week 13:***
-
-Sprint 4 mid point (note, there will be not sprint 4 review meeting, the final presentation with demo will replace the sprint 4 review meeting)
-**November 13** 
-
-**November 15**
-
-**November 17** Project presentations.
-
----
-***Week 14:***
-
-**November 20** Project presentations.
-
 **~~November 22/24~~** No Class! Thanksgiving Break.
-
-
 
 ---
 ***Week 15:***
