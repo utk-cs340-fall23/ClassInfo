@@ -350,9 +350,11 @@ Sprint 4 mid point (note, there will be not sprint 4 review meeting, the final p
 **December 6 (Last Day of Class.)** Project presentations.
 
 ---
+<!--
 ***Final:***
 
 ***Note: Everyone is expected to be in attendance for all project presentations***
 
 **December 14** Final 8am-10:15am. Project presentations.
+-->
 
