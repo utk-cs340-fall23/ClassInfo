@@ -267,12 +267,11 @@ Sprint 3 mid-point
 
 Sprint 3 Review Meeting and Sprint 4 Planning Meeting
 
-- School Subject Smackdown
-- Student Planner
-- Downloaded Music Player
-- Trakkit
-- TrendStrength Fitness Tracker
-- Baymax
+- Engineering Vols Connect
+- Fragrance Finder
+- PantryPal
+- PaxPal
+- RaceMob
   
 ---
 ***Week 13:***
@@ -281,22 +280,22 @@ Sprint 3 Review Meeting and Sprint 4 Planning Meeting
 
 Sprint 3 Review Meeting and Sprint 4 Planning Meeting
 
-- Engineering Vols Connect
-- Fragrance Finder
-- PantryPal
-- PaxPal
-- RaceMob
-  
-**November 15**
-
-Sprint 3 Review Meeting and Sprint 4 Planning Meeting
-
 - School Subject Smackdown
 - Student Planner
 - Downloaded Music Player
 - Trakkit
 - TrendStrength Fitness Tracker
 - Baymax
+  
+**November 15**
+
+Sprint 3 Review Meeting and Sprint 4 Planning Meeting
+
+- Calorie Clicker
+- DnDBetter
+- Music Audio Visualizer
+- RecurseAI
+- Work Hard Play Hard
 
 **November 17** 
 
