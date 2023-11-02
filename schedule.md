@@ -299,7 +299,7 @@ Sprint 3 Review Meeting and Sprint 4 Planning Meeting
 
 **November 17** 
 
-Sprint 4 mid point (note, there will be not sprint 4 review meeting, the final presentation with demo will replace the sprint 4 review meeting)
+Sprint 4 mid point (note, there will be no sprint 4 review meeting, the final presentation with demo will replace the sprint 4 review meeting)
 
 - Engineering Vols Connect
 - Fragrance Finder
@@ -315,7 +315,7 @@ Sprint 4 mid point (note, there will be not sprint 4 review meeting, the final p
 
 **November 20** 
 
-Sprint 4 mid point (note, there will be not sprint 4 review meeting, the final presentation with demo will replace the sprint 4 review meeting)
+Sprint 4 mid point (note, there will be no sprint 4 review meeting, the final presentation with demo will replace the sprint 4 review meeting)
 
 - Trakkit
 - TrendStrength Fitness Tracker
