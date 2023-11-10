@@ -335,9 +335,21 @@ Sprint 4 mid point (note, there will be no sprint 4 review meeting, the final pr
 
 **November 27** Project presentations.
 
+- Engineering Vols Connect
+- PantryPal
+- Baymax
+
 **November 29** Project presentations.
 
+- Fragrance Finder
+- Race Mob
+- Student Planner
+
 **December 1** Project presentations.
+
+- PaxPal
+- TrendStrength Fitness Tracker
+- Calorie Clicker
 
 ---
 ***Week 16:***
@@ -346,8 +358,17 @@ Sprint 4 mid point (note, there will be no sprint 4 review meeting, the final pr
 
 **December 4** Project presentations.
 
+- School Subject Smackdown
+- recurseAI
+- Trakkit
+
 **December 6 (Last Day of Class.)** Project presentations.
 
+- DnDBetter
+- Music Audio Visualizer
+- Work Hard Play Hard
+- Downladed Music Player
+  
 ---
 <!--
 ***Final:***
